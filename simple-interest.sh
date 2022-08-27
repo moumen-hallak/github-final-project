@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <moumenha>
+   # moumenha
 
    # Input:
    # p, principal amount
